@@ -1,2 +1,1 @@
-# newspubhub
-Asp.Net MVC project
+# Share files to public
